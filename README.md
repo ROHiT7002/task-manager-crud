@@ -20,7 +20,7 @@ This project helps users manage their daily tasks efficiently by providing APIs 
 
 | Category | Technology |
 |:----------|:------------|
-| **Language** | Java 17+ |
+| **Language** | Java 21+ |
 | **Framework** | Spring Boot |
 | **Database** | MySQL |
 | **ORM Tool** | Spring Data JPA |
@@ -81,4 +81,5 @@ Tested all endpoints with Postman
 
 🤝 Author
 Rohit Biswas
+
 📧 Email: rickbiswas777@gmail.com
